@@ -18,3 +18,9 @@ https://www.arduino.cc/en/Main/Software
 
 in the video when it says "open the example tab labeled 'blink'" you need to to go Sketch->Examples->Digital->"Blink without delay" and choose that sketch. Big thanks to user John Bartucz for pointing that out!﻿
 
+sewing a hoop with example using led sequins
+
+first sketch
+then attach using metal thread
+
+nex load IDE and set up arduino
